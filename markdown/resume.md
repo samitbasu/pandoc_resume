@@ -75,7 +75,7 @@ Skills
 - Software and system architecture
 - Machine learning algorithm development
 - Cloud architecture, IoT, server-less functions
-- Signal processing algoirithm development
+- Signal processing algorithm development
 - PCB design
 - Software/firmware technology development (Rust/C++/C/Python/Verilog)
 - Inverse problems

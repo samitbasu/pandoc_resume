@@ -13,11 +13,11 @@ Experience
 
 **Chief Digital Officer, Smiths Group** (2017-)
 
-Lead digital transformation for Smiths Group through the [Smiths Digital Forge](forge.smiths.com) – a center of technical excellence for the development of software, algorithms and technology to support current and future Smiths’ products and services.  In its first four years, the Forge has delivered software technology for smart infusion pumps, minimum viable product demonstrators for condition monitoring of seals in the oil and gas space, a cybersecure IoT gateway for hazardous locations, and networked sensor solutions for commercial and residential ducting.  The Forge has also hosted group-wide activities such as a first ever company-wide conference on artificial intelligence, and a self-driving car competition.
+Lead digital transformation for Smiths Group through the [Smiths Digital Forge](forge.smiths.com) – a center of technical excellence for the development of software, algorithms and technology to support current and future Smiths’ products and services.  In its first four years, the Forge has delivered software technology for smart infusion pumps, minimum viable product demonstrators for condition monitoring of seals in the oil and gas space, a cyber-secure IoT gateway for hazardous locations, and networked sensor solutions for commercial and residential ducting.  The Forge has also hosted group-wide activities such as a first ever company-wide conference on artificial intelligence, and a self-driving car competition.
 
 - Architected, staffed and lead the Smiths Digital Forge from CEO conception thru construction and operation
 - Lead the strategy for the Digital Forge, and supported the digital strategies of John Crane and FlexTek.
-- Designed the electronics, gateware, and the firmware for a fielded Minimum Viable Product (MVP) dry gas seal
+- Designed the electronics, gate-ware, and the firmware for a fielded Minimum Viable Product (MVP) dry gas seal
 monitoring system
 - Invented, prototyped, patented and deployed a time series database for very high throughput telemetry that 
 features a simple REST API, ease of integration with Grafana for charting, and a rich set of apps.  The
@@ -29,10 +29,10 @@ internal company survey.
 
 **Chief Technology Officer, Morpho Detection** (2014-2017)
 
-Drive the renewal of core product lines and position technologies for the future.  Shape the technology plan and vision for the company.  Build and staff an internal Research and Technology organization to develop early phase technologies for future products.  Promote a culture of innovation within the organization.  Architect the next generation line of Computed Tomography systems to achieve higher performance, scalable cost, and ease of manufacturability and serviceability.
+Drive the renewal of core product lines and position technologies for the future.  Shape the technology plan and vision for the company.  Build and staff an internal Research and Technology organization to develop early phase technologies for future products.  Promote a culture of innovation within the organization.  Architect the next generation line of Computed Tomography systems to achieve higher performance, scalable cost, and ease of manufacturing and serviceability.
 
 - Architected and lead the development of a prototype for an open-bearing CT system.
-- Invented a new detector concept based on off-the-shelf photodiodes instead of silicon photodiode arrays.
+- Invented a new detector concept based on off-the-shelf photo-diodes instead of silicon photo-diode arrays.
 - Lead the Research and Technology group - a set of 6 highly talented individuals that covered all aspects of next generation technology development across CT and trace detection.
 - Developed a sophisticated software package `Illumina` for fast (>10^8 photons/sec) simulation of CT systems using 
 accurate modelling of photon absorption and scattering on a single GPU.
@@ -52,14 +52,17 @@ Education
 
 1998-2000
 :   **PhD, Electrical Engineering**; University Of Illinois at Urbana-Champaign
+
     *Thesis title: Fast Algorithms for Tomography*
 
 1995-1998
 :   **MS, Electrical Engineering**; University of Illinois at Urbana-Champaign
+
     *Thesis title: Tomography with Unknown View Angles*
 
 1991-1995
 :   **BS, Electrical Engineering**; University of Delaware
+
     *Thesis title: Multichannel Permutation Filters*
 
 
@@ -88,10 +91,10 @@ Architected, Designed and lead the implementation of a continuous,
 multichannel data acquisition system for monitoring assets in industrial 
 settings.  It featured:
 
-    - Multichannel megasample/sec analog channels
+    - Multichannel mega-sample/sec analog channels
     - Static channels (1Hz) for collecting slowly varying signals
     - Modular internal design to allow for different sensor configurations
-    - Embedded FPGA processing for data reduction and communcation with the embedded processor
+    - Embedded FPGA processing for data reduction and communication with the embedded processor
     - Real time signal processing
     - Cloud side data processing, and time series storage
 
@@ -116,17 +119,18 @@ temperature applications.
 EDS
 : (Lead system designer and architect, Imaging scientist) 
 Designed the explosives detection system (CTX5800 and much of the
-architecture of the CTX9800SEIO) systems
+architecture of the CTX9800 SEIO) systems
 
+    - System geometry design and optimization
     - Detailed simulations of the imaging and radiation shielding performance
     - Electrical architecture
-    - Antiscatter design
+    - Anti-scatter design
     - Data processing chain (image processing, signal corrections, scatter mitigation, etc.)
 
 Eclipse
 : (Lead designer and architect)
 The Eclipse computed tomography detector system - a fully owned 
-design that included a tileable design for modularity, cost efficiency
+design that included a tile-able design for modularity, cost efficiency
 and high performance.
 
 FlatPak DB
@@ -160,7 +164,7 @@ environment.
 
 [**SPARQ**](https://github.com/smithsdigitalforge/sparq)
 : Sole developer and architect - 
-An infrastructure library for animatronics in C++.  SPARQ is a core technology behind smart infusion systems.
+An infrastructure library for mechatronics in C++.  SPARQ is a core technology behind smart infusion systems.
 
 [**FreeMat**](http://freemat.sourceforge.net)
 : Sole developer - 

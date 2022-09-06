@@ -22,10 +22,10 @@ monitoring system
 - Invented, prototyped, patented and deployed a time series database for very high throughput telemetry that 
 features a simple REST API, ease of integration with Grafana for charting, and a rich set of apps.  The
 database is written in Rust.
-- Provided leadership, motivation, and engagement for the ~24 talented individuals (scientists, software 
-engineers, mechanical and electrical engineers, program management and IT support) that made up the Forge.
-- The Smiths Digital Forge had some of the highest employee engagement and satisfaction results from the
-internal company survey.
+- Provide leadership, motivation, and engagement for ~24 talented individuals (scientists, software 
+engineers, mechanical and electrical engineers, program management and IT support).
+- The Smiths Digital Forge has some of the highest employee engagement and satisfaction results across 
+all of Smiths group, according to frequent internal company surveys.
 
 **Chief Technology Officer, Morpho Detection** (2014-2017)
 
@@ -178,40 +178,46 @@ Certifications
 - Learn Altium essentials, Fedevel Academy
 - Six Sigma Green Belt, GE
 
-Awards
-------
+Awards & Honors
+---------------
 
-2011
-CEO award, safran morpho detection
-Innovation
+2013
+Safran Distinguished Expert
 
-2011
+2012
 Dushman award, GE Global Research
 Technical achievement with significant business impact
 VEO
 
+2010
+CEO Award, Safran Morpho Detection
+Innovation
+
+2009
+Safran Sensior Expert
+
 2008
-University of Illinois young alumni achievement award
+University of Illinois Young Alumni Achievement Award
 
 2007
 Technologist of the week, GE
 
 2006
-Edelheight award, GE global research
-imaging technologies
-vuepoint recon
+Edelheight Award, GE Global Research
+Imaging Technologies
+Vuepoint Recon
 
 2001
-IEEE young author best paper award
+IEEE Young Author Best Paper Award
 
 1999, 2000
-Mac Van Valkenburg fellow
+Mac Van Valkenburg Fellow
 
 1996-1999
-Joint Services Electronics Program fellow
+Joint Services Electronics Program Fellow
 
 1991-1995
-Eugene DuPont scholar
+Eugene DuPont Scholar
 
 
 Hobbies
